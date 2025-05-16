@@ -10,3 +10,7 @@ Just some plain text
 # Embed Header
 
 {% include embed-gmaps-trip1.html %}
+
+# Modified Embed
+
+{% include embed-gmaps-trip1-custom.html %}
