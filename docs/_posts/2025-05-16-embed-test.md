@@ -7,10 +7,17 @@ categories: test jekyll embed
 
 Just some plain text
 
-# Embed Header
+# Sicily Arrival - Day 1
 
-{% include embed-gmaps-trip1.html %}
+Main trip target here is to push up from Pozzallo towards Etna while sticking to Strade Statale and Strade Provinciali whenever possible.
 
-# Modified Embed
+- SS-194 up to and just past Vizzini
+- 
 
-{% include embed-gmaps-trip1-custom.html %}
+# Native Embed
+
+{% include embed-gmaps-day1-trip1.html %}
+
+# Embed API Example
+
+{% include embed-gmaps-day1-trip1-custom.html %}
