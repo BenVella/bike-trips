@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# Welcome to Bike Trips
+## Sicily in 2025
 
-[**Sicily Day 1**](/_pages/2025-sicily-day1.md)
+[**Sicily - Day 1**](/content/sicily/day1.md)
