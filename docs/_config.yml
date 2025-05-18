@@ -23,7 +23,7 @@ email: noreply@github.io
 description: >- # this means to ignore newlines until "baseurl:"
   A website dedicated to organised trips to Sicily for good and bad company
 domain: benvella.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://gh.bennetvella.com  # the base hostname and protocol for your site, e.g. http://example.com
+url: https://moto.bennetvella.com  # the base hostname and protocol for your site, e.g. http://example.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  benvella
