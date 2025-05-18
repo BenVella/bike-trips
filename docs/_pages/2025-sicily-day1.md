@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Embed test"
-date:   2025-05-16 17:23:50 +0200
-categories: test jekyll embed
+layout: page
+title: Sicily 2025 - Day 1
+permalink: /2025/1
 ---
 
 Just some plain text
@@ -12,12 +11,9 @@ Just some plain text
 Main trip target here is to push up from Pozzallo towards Etna while sticking to Strade Statale and Strade Provinciali whenever possible.
 
 - SS-194 up to and just past Vizzini
-- 
+- SPs up to Etna's SP92 and back down
+- Back up Etna's 
 
-# Native Embed
-
-{% include embed-gmaps-day1-trip1.html %}
-
-# Embed API Example
+### Gmaps Route 
 
 {% include embed-gmaps-day1-trip1-custom.html %}

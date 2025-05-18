@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome to Bike Trips
+
+[**Sicily Day 1**](/_pages/2025-sicily-day1.md)
