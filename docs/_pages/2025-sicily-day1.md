@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sicily 2025 - Day 1
-permalink: /2025/1
+permalink: /2025-sicily/day-1/
 ---
 
 Just some plain text
