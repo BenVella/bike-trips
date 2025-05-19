@@ -33,6 +33,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  skin: auto
+  nav-pages:
+    - about.markdown
+    - content/sicily/sicily-2015.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
