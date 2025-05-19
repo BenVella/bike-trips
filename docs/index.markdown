@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Sicily in 2025
 ---
-
-## Sicily in 2025
 
 [**Sicily - Day 1**](/content/sicily/day1.md)
