@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Sicily 2025
+permalink: /sicily-2015/
 ---
 
 <div class="grid-container">
   <div class="grid-item">
-    <a href="./day-1.md">Day 1</a>
+    <a href="day-1.md">Day 1</a>
   </div>
   <div class="grid-item">
-    <a href="./day-2.md">Day 2</a>
+    <a href="day-2.md">Day 2</a>
   </div>
   <div class="grid-item">
-    <a href="./day-3.md">Day 3</a>
+    <a href="day-3.md">Day 3</a>
   </div>
 </div>
 

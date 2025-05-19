@@ -6,4 +6,7 @@ layout: home
 title: Sicily in 2025
 ---
 
-[**Sicily - Day 1**](/content/sicily/day1.md)
+- [**Sicily 2025**](/sicily-2015/)
+  - [*Sicily - Day 1*](/content/sicily/day-1.md)
+  - [*Sicily - Day 2*](/content/sicily/day-2.md)
+  - [*Sicily - Day 3*](/content/sicily/day-3.md)
