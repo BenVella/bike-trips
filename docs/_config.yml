@@ -35,10 +35,11 @@ plugins:
   - jekyll-relative-links
 
 minima:
-  skin: auto
-  nav-pages:
-    - about.markdown
-    - content/sicily/sicily-2015.md
+  skin: dark
+
+header_pages:
+  - about.markdown
+  - content/sicily/sicily-2015.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
