@@ -1,25 +1,28 @@
 <div class="grid-container">
   <div class="grid-item">
-    <a href="/content/sicily/day-1.html">Day 1</a>
+    {% capture day1_content %}
+      {% include /sicily-2015/day-1.md %}
+    {% endcapture %}
+    {{ day1_content | markdownify }}
   </div>
   <div class="grid-item">
-    <a href="/content/sicily/day-2.html">Day 2</a>
+    {% include /sicily-2015/day-2.md %}
   </div>
   <div class="grid-item">
-    <a href="/content/sicily/day-3.html">Day 3</a>
+    {% include /sicily-2015/day-3.md %}
   </div>
 </div>
 
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 16px;
 }
 
 .grid-item {
   padding: 16px;
-  text-align: center;
+  text-align: justify;
   background-color: #f4f4f4;
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -29,6 +32,11 @@
   text-decoration: none;
   color: #333;
   font-weight: bold;
+}
+
+.grid-item:nth-child(odd):last-child {
+  grid-column: span 2;
+  justify-self: center;
 }
 
 @media (max-width: 768px) {
