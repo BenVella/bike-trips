@@ -6,10 +6,16 @@
     {{ day1_content | markdownify }}
   </div>
   <div class="grid-item">
-    {% include /sicily-2015/day-2.md %}
+    {% capture day1_content %}
+      {% include /sicily-2015/day-2.md %}
+    {% endcapture %}
+    {{ day1_content | markdownify }}
   </div>
   <div class="grid-item">
-    {% include /sicily-2015/day-3.md %}
+    {% capture day1_content %}
+      {% include /sicily-2015/day-3.md %}
+    {% endcapture %}
+    {{ day1_content | markdownify }}
   </div>
 </div>
 
@@ -32,11 +38,6 @@
   text-decoration: none;
   color: #333;
   font-weight: bold;
-}
-
-.grid-item:nth-child(odd):last-child {
-  grid-column: span 2;
-  justify-self: center;
 }
 
 @media (max-width: 768px) {

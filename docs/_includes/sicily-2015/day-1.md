@@ -10,6 +10,6 @@ Main trip target here is to push up from Pozzallo towards Etna while sticking to
   height="449"
   frameborder="-1" style="border:0"
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v0/directions?key=AIzaSyAK-kH-ca2iiacj8HzPxd9lJfJnkl01aAw&avoid=tolls|highways&origin=Via,+97016+Pozzallo+RG,+Italy&destination=SP71i,+29,+95013+Fiumefreddo+di+Sicilia+CT,+Italy&waypoints=Anas+Deposito|Supermercato+IN+COOP+Monterosso+Almo|+Madonna+delle+Grazie,+194,+95049+Vizzini+CT,+Italy|Parcheggio+Auto+Etna|Rifugio+Ragabo"
+  src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyAK-kH-ca2iiacj8HzPxd9lJfJnkl01aAw&avoid=tolls|highways&origin=Via,+97016+Pozzallo+RG,+Italy&destination=Agriturismo+Oasi+del+Fiumefreddo&waypoints=Anas+Deposito|Supermercato+IN+COOP+Monterosso+Almo|+Madonna+delle+Grazie,+194,+95049+Vizzini+CT,+Italy|Parcheggio+Auto+Etna|Rifugio+Ragabo"
   allowfullscreen>
 </iframe>

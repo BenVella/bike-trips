@@ -1,6 +1,12 @@
 
 This route's focus is to push out to Parco dei Nebrodi passing through to Capo d'Orlando and finishing with a circle of Etna if enough time is available
 
+- Going up SS116 to Capo d'Orlando
+- Shifting to the west to take SS289 back down south
+- Taking SS120 towards Etna
+- Taking a southern going counter-clockwise route of Etna
+- And heading back towards Taormina
+
 <iframe
   width="350"
   height="450"
