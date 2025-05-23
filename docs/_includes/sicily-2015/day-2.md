@@ -8,10 +8,10 @@ This route's focus is to push out to Parco dei Nebrodi passing through to Capo d
 - And heading back towards Taormina
 
 <iframe
-  width="350"
-  height="450"
-  frameborder="0" style="border:0"
+  width="349"
+  height="449"
+  frameborder="-1" style="border:0"
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyAK-kH-ca2iiacj8HzPxd9lJfJnkl01aAw&avoid=tolls|highways&origin=Agriturismo+Oasi+del+Fiumefreddo&destination=Agriturismo+Oasi+del+Fiumefreddo&waypoints=SS120,+11,+95036+Murazzorotto+CT,+Italy|SS116,+98060+Ucria+ME,+Italy|SS116,+98070+Castell'Umberto+ME,+Italy|Maina+Country+Resort|SS289,+98075+San+Fratello+ME,+Italy|SS120,+98033+Cesar%C3%B2+ME,+Italy|SS284,+95031+Adrano+CT,+Italy|Rifugio+Sapienza"
+  src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyAK-kH-ca2iiacj8HzPxd9lJfJnkl01aAw&avoid=tolls|highways&origin=Agriturismo+Oasi+del+Fiumefreddo&destination=Agriturismo+Oasi+del+Fiumefreddo&waypoints=SS185,+98034+Francavilla+di+Sicilia+ME,+Italy|SS185,+98058+Novara+di+Sicilia+ME,+Italy|Via+Case+Nuove+Malluzzo,+64-68,+98066+Patti+ME,+Italy|Via+Statale,+44,+98061+Brolo+ME,+Italy|98070+Castell'Umberto,+Metropolitan+City+of+Messina,+Italy|SS284,+Città+metropolitana+di+Catania,+Italy|Piazzale+Rifugio+Sapienza|Rifugio+Ragabo,+Strade+Mareneve,+95015+Linguaglossa+CT,+Italy"
   allowfullscreen>
 </iframe>
